@@ -4,7 +4,7 @@
  * @date 17.12.23
  *
  * City class creates buildings from text file coordinates,
- * finds the shortest route between buildings and migros.
+ * finds the shortest route between buildings and market.
  */
 
 
