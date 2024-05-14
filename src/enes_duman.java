@@ -3,8 +3,8 @@
  * @studentID 2023719042
  * @date 17.12.2023
  *
- * Finds the quickest delivery route of a Migros car. Starts from Migros node, travels to each node once
- * then returns to Migros.
+ * Finds the quickest delivery route of a market car. Starts from market node, travels to each node once
+ * then returns to market.
  */
 
 
