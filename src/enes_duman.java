@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.AbstractMap;
 import java.util.ArrayList;
 
-public class enes_duman {
+public class Market {
 
     /**
      * Main function. Creates a city object from text file coordination.
