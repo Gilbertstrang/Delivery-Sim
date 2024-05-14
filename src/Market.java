@@ -22,7 +22,7 @@ public class Market {
      * @throws IOException
      */
     public static void main(String[] args) throws IOException {
-        City city = new City("input04.txt");    //CHANGE FILE NAME HERE
+        City city = new City("input01.txt");    //CHANGE FILE NAME HERE
         AbstractMap.SimpleEntry<Double, ArrayList<Building>> entry = city.solveShortestPath();
 
         //prints the result in a readable way.
